@@ -134,4 +134,4 @@ The daily build practice trains the core FDE skill: taking a customer problem an
 
 **Bhuvaneswari Chodisetty**  
 CS Graduate · NIT Rourkela · AI Engineer  
-[LinkedIn](https://linkedin.com/in/bhuvaneswari) · [GitHub](https://github.com/Bhuvaneswari123457)
+[GitHub](https://github.com/Bhuvaneswari123457)
